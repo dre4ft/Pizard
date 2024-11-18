@@ -1,5 +1,5 @@
 # Pizard
-A reinterpretation of the P4wnP1 Aloha Raspberry PI Zero W framework from scratch 
+A reinterpretation of the P4wnP1 A.L.O.A Raspberry PI Zero W framework from scratch 
 
 ## Harware used : 
 - a Raspberry PI Zero W with a USB-A Shield : https://fr.aliexpress.com/item/1005006064397684.html?spm=a2g0o.order_list.order_list_main.11.2e6e5e5bHyf0SK&gatewayAdapt=glo2fra ( for exemple)
