@@ -37,7 +37,7 @@ Our vision includes:
      - **4G modules**  
 
 4. **Advanced Payloads**  
-   - **Bad-USB Attacks:** Leverage a custom scripting language inspired by DuckyScript™.  
+   - **Bad-USB Attacks:** Leverage our custom scripting language PhantomKey.  
    - **Keylogging:** Capture keystrokes for analysis.  
    - **Data Exfiltration:** Extract sensitive data stealthily.  
    - **Infection Vectors:** Deploy ransomware, rootkits, or other advanced malware.  
